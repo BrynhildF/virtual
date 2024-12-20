@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@three-ts/orbit-controls": "^1.4.7",
+    "three": "^0.171.0"
+  }
+}
